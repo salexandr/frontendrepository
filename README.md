@@ -1,2 +1,0 @@
-# frontendrepository
-Репозиторий фронтэнд
