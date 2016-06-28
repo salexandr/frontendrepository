@@ -1,0 +1,119 @@
+﻿@import url(http://allfont.ru/allfont.css?fonts=open-sans);
+
+body {
+    background-color: #f9f9f9;
+}
+
+.wrapper {
+    width: 1060px;
+    margin: 0px auto 40px;
+    padding: 46px;
+    background-color: #ffffff;
+    text-align: center;
+}
+
+header {
+	width: 100%;
+	text-align: left;
+}
+
+nav {
+	margin: 40px 0px;
+	height: 40px;
+	background-color: #535353;
+	font-family: 'Open Sans', arial;
+	font-size: 17px;
+}
+
+nav li {
+    display: inline-block;
+}
+
+nav li a {
+	display: block;
+	text-decoration:none;
+    padding : 11px 30px;
+	color: #ffffff;
+}
+
+nav li a:hover {
+	background:#444444;
+	padding: 11px 29px;
+	border-left: 1px solid #838383;
+	border-right: 1px solid #838383;
+}
+
+aside {
+	float: left;
+    text-align: left;
+}
+
+.dopmenu {
+	font-family: 'Open Sans', arial;
+}
+
+.dopmenu li a {
+	width: 240px;
+	padding : 17px 29px;
+	display: block;
+	text-decoration:none;
+	border-bottom: 1px solid #c8c8c8;
+	color: #656363;
+}
+
+.dopmenu li a:hover {
+	width: 208px;
+	padding : 17px 29px;
+	background:#f9f9f9;
+	color: #2c2c2c;
+	padding : 17px 45px;
+}
+
+section {
+	display: block;
+    overflow:hidden;
+}
+
+.content {
+    margin-top: 96px;	
+	font-family: 'Open Sans', arial;
+	text-align: left;
+	line-height:22px;
+	font-size: 14px;
+	padding: 40px;
+}
+
+footer {
+	margin-top: 20px;
+	height: 40px;
+	width: 100%;
+	text-align: left;
+	background-color: #e1e1e1;
+}
+
+.menufooter li {
+	display: inline-block;
+	font-family: 'Open Sans', arial;
+	font-size: 17px;
+	float: left;
+}
+
+.menufooter li a {
+	display: block;
+	text-decoration:none;
+    padding : 11px 30px;
+	color: #2c2c2c;
+}
+
+.menufooter li a:hover {
+	text-decoration:underline;
+}
+
+footer p {
+	display:block;
+	float:right;
+	font-family: 'Open Sans', arial;
+	font-size: 14px;
+	margin-right: 20px;
+	margin-top:12px;
+} 
